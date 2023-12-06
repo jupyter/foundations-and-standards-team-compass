@@ -26,3 +26,11 @@ current active member.
 .. include:: team/inactive.txt
 
 ```
+## Software Steering Council Representative
+
+Each *official* subproject in Jupyter gets a single [Software Steering Council
+Representative](https://jupyter.org/governance/software_steering_council.html#software-steering-council).
+JupyterLab's representative is elected by the members. This representative
+*should* be re-elected every year (in January).
+
+In 2023, the current representative is Paul Ivanov.
