@@ -1,7 +1,7 @@
 # Current Jupyter Foundations and Standards Council members
 
 This page lists (alphabetically) the officially named Jupyter Foundations and Standards
-Council.
+Council. It was last updated in January 2024.
 
 ## Active members
 
