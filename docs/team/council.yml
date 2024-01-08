@@ -11,73 +11,73 @@
   handle: "@damianavila"
   affiliation: 2i2c
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-12
 
 - name: Kevin Bates
   handle: "@kevin-bates"
   affiliation: IBM
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-12
 
 - name: Matthias Bussonnier
   handle: "@Carreau"
   affiliation: Quansight Labs
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-12
 
 - name: Sylvain Corlay
   handle: "@SylvainCorlay"
   affiliation: QuantStack
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-12
 
 - name: Jason Grout
   handle: "@jasongrout"
   affiliation: Databricks
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-12
 
 - name: Paul Ivanov
   handle: "@ivanov"
   affiliation: Jupyter
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-12
 
 - name: Kyle Kelley
   handle: "@rgbkrk"
   affiliation: Noteable
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-12
 
 - name: Min Ragan-Kelley
   handle: "@minrk"
   affiliation: Simula Research Lab
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-12
 
 - name: Johan Mabille
   handle: "@JohanMabille"
   affiliation: QuantStack
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-12
 
 - name: Matthew Seal
   handle: "@mseal"
   affiliation: Noteable
-  team: active
-  last-check-in: 2023-12
+  team: inactive
+  last-check-in: 2024-12
 
 - name: Steven Silvester
   handle: "@blink1073"
   affiliation: MongoDB
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-12
 
 - name: Carol Willing
   handle: "@willingc"
   affiliation: Willing Consulting
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-12
 
 
 
