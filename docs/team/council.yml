@@ -1,4 +1,4 @@
-# Active Council members
+# Council members
 # Use ALPHABETICAL (BY LAST NAME) ORDER please :-)
 
 # - name: Joe/Jane
@@ -11,74 +11,72 @@
   handle: "@damianavila"
   affiliation: 2i2c
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-01
 
 - name: Kevin Bates
   handle: "@kevin-bates"
   affiliation: IBM
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-01
 
 - name: Matthias Bussonnier
   handle: "@Carreau"
   affiliation: Quansight Labs
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-01
 
 - name: Sylvain Corlay
   handle: "@SylvainCorlay"
   affiliation: QuantStack
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-01
 
 - name: Jason Grout
   handle: "@jasongrout"
   affiliation: Databricks
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-01
 
 - name: Paul Ivanov
   handle: "@ivanov"
   affiliation: Jupyter
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-01
 
 - name: Kyle Kelley
   handle: "@rgbkrk"
   affiliation: Noteable
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-01
 
 - name: Min Ragan-Kelley
   handle: "@minrk"
   affiliation: Simula Research Lab
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-01
 
 - name: Johan Mabille
   handle: "@JohanMabille"
   affiliation: QuantStack
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-01
 
 - name: Matthew Seal
   handle: "@mseal"
   affiliation: Noteable
-  team: active
-  last-check-in: 2023-12
+  team: inactive
+  last-check-in: 2024-01
 
 - name: Steven Silvester
   handle: "@blink1073"
   affiliation: MongoDB
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-01
 
 - name: Carol Willing
   handle: "@willingc"
   affiliation: Willing Consulting
   team: active
-  last-check-in: 2023-12
+  last-check-in: 2024-01
 
 
-
-# Inactive council members at the end, also alphabetical
