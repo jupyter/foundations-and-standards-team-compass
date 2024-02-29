@@ -33,4 +33,4 @@ Representative](https://jupyter.org/governance/software_steering_council.html#so
 Jupyter Foundations and Standards Subproject's representative is elected by the members. This representative
 *should* be re-elected every year (in January).
 
-In 2023, the current representative is Paul Ivanov.
+In 2024, the current representative is Paul Ivanov.
