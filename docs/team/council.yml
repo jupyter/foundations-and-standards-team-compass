@@ -67,12 +67,6 @@
   team: inactive
   last-check-in: 2024-01
 
-- name: Steven Silvester
-  handle: "@blink1073"
-  affiliation: MongoDB
-  team: active
-  last-check-in: 2024-01
-
 - name: Carol Willing
   handle: "@willingc"
   affiliation: Willing Consulting
